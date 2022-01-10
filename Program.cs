@@ -16,12 +16,12 @@ namespace ConsoleApp1
          // PrimeFactor.ThePrime();
          // Harmonic Uc5 = new Harmonic();
          // Harmonic.harmonicSeries();
-         OddOrEven Uc6 = new OddOrEven();
-            OddOrEven.CheckEvenOddNumber();
-            LargestAmongTheeNumbers Uc7 = new LargestAmongTheeNumbers();
-            LargestAmongTheeNumbers.CheckLargestAmongTheeNumbers();
-            QuatientAndRemainder Uc8= new QuatientAndRemainder();
-            QuatientAndRemainder.FindQuatientAndRemainder();
+        // OddOrEven Uc6 = new OddOrEven();
+          //  OddOrEven.CheckEvenOddNumber();
+         //   LargestAmongTheeNumbers Uc7 = new LargestAmongTheeNumbers();
+          //  LargestAmongTheeNumbers.CheckLargestAmongTheeNumbers();
+         //   QuatientAndRemainder Uc8= new QuatientAndRemainder();
+          //  QuatientAndRemainder.FindQuatientAndRemainder();
 
         }
     }
